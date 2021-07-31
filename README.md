@@ -4,7 +4,7 @@
   Versão 1: https://renangfs77.000webhostapp.com/
 <h4>Desafios no desenvolvimento: Impedir agendamentos no mesmo dia e horário, a solução foi quando o cliente marca em um horário já existente no banco de dados,
 é acionada um alert-box orientando o cliente a escolher outra data ou hora.</h4>
-  Versão 2: 
+  Versão 2: https://agendamentov2.000webhostapp.com/
 <h4>Na Versão 2 modularizei a Versão 1 e não utilizei FRAMEWORK para obter mais controle de meus projetos, Acrescentei uma lista auxiliar que o cliente escolhendo uma 
   data é possível visualisar os horários disponíveis (Tabela visível apenas nos monitores superiores a 1030px).</h4>
 
