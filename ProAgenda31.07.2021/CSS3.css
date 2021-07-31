@@ -1,0 +1,115 @@
+*{ 
+    background: #1C1C1C;   
+    
+    font-family: "Poppins", sans-serif;
+}
+body{
+    top: 1px;
+    color: white;
+    width: 900px;
+	margin: 5em auto;
+    border: 4px solid #7fff00;
+    border-radius: 15px;
+    font-size: 25px;
+
+}
+.final{
+    padding-left: 60px;
+    
+}
+.final input{
+    border:0;
+    font-size: 20px;
+    color:white;
+    background: #3a3a3a;
+    padding-left: 15px;
+
+    
+}
+/*Botão voltar*/
+.BTN1{
+    left: 120px;
+    top: 50px;
+    cursor: pointer;
+    position: absolute;
+    background-color: #3a3a3a;
+    color:#fff;
+    width: 120px;
+    height: 30px;
+    border: 2px #7fff00 solid;
+    border-radius: 10px;
+    font-size: 20px;   
+}
+
+.BTN1:focus{
+    position: absolute;
+    box-shadow: 0 0 5px #7fff00;
+}
+.BTN1:hover{/*efeito da seta passando por cima do botão*/
+    position: absolute;
+    background: #009c3d; 
+    transition: background 0.5s;
+    color:rgb(255, 255, 255);
+    box-shadow: insert 0 0 0 1px #009c3d;
+}
+/*botão Agendar*/
+.BTN2{
+    top: 510px;
+    right: 60px;
+    cursor: pointer;
+    position: absolute;
+    background-color: #3a3a3a;
+    color:#fff;
+    width: 120px;
+    height: 35px;
+    border: 2px #7fff00 solid;
+    border-radius: 10px;
+    font-size: 20px;   
+}
+
+.BTN2:focus{
+    position: absolute;
+    box-shadow: 0 0 5px #7fff00;
+}
+.BTN2:hover{/*efeito da seta passando por cima do botão*/
+    position: absolute;
+    background: #009c3d; 
+    transition: background 0.5s;
+    color:rgb(255, 255, 255);
+    box-shadow: insert 0 0 0 1px #009c3d;
+}
+.subliminar input{
+    background: #1C1C1C;   
+    font-size: 0px;
+}
+@media only screen and (min-width: 650px) and (max-width: 900px){/*configurando menu de acordo com a resolução*/
+    body{
+        width: 600px;
+    }
+    .BTN2{
+        top: 590px;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 649px){/*configurando menu de acordo com a resolução*/
+    body{
+        margin: 3em auto;
+        font-size: 20px;
+    }
+    .final input{
+    padding-left: 10px;
+    }
+    .final{
+        padding-left: 25px;
+
+    }
+    .BTN1{
+        left: 30px;
+        top: 5px;  
+    }
+    body{
+        width: 300px;
+    }
+    .BTN2{
+        top: 590px;
+    }
+}

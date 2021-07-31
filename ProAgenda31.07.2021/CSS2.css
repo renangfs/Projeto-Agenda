@@ -1,0 +1,151 @@
+/*https://www.youtube.com/watch?v=oLmRV25eQvo&t=601s*/
+/*codigo do CSS no video*/
+*{
+    margin:0;
+    padding:0;
+    background: #1C1C1C;    
+}
+.all{
+    padding-left: 200px ;
+    padding-top: 90px;
+    
+}
+body{
+    font-family: "Poppins", sans-serif;
+    color:white;
+    font-size: 25px;
+}
+.format{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+.format label{
+    padding-left: 10px;
+    cursor: pointer;
+}
+.classcheck{
+    background: #3a3a3a;
+    cursor: pointer;
+    appearance: none;
+    width: 40px;
+    height: 40px;
+    border: 3px solid #7fff00;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.classcheck:before {
+    content: '';
+    position: absolute;
+    height: 20px;
+    width: 10px;
+    transform: rotate(45deg);
+    border-right: 5px solid #7fff00;
+    border-bottom: 5px solid #7fff00;
+    opacity: 0;
+    transition: all 0.3s;
+    top: 2px;
+
+}
+.classcheck:checked:before{
+    opacity: 1;
+}
+.classcheck:focus{
+    box-shadow: 0 0 5px #7fff00;
+}
+/*Botão voltar*/
+.BTN1{
+    left: 120px;
+    top: 40px;
+    cursor: pointer;
+    position: relative;
+    background-color: #3a3a3a;
+    color:#fff;
+    width: 120px;
+    height: 30px;
+    border: 2px #7fff00 solid;
+    border-radius: 10px;
+    font-size: 20px;   
+}
+
+.BTN1:focus{
+    position: relative;
+    box-shadow: 0 0 5px #7fff00;
+}
+.BTN1:hover{/*efeito da seta passando por cima do botão*/
+    position: relative;
+    background: #009c3d; 
+    transition: background 0.5s;
+    color:rgb(255, 255, 255);
+    box-shadow: insert 0 0 0 1px #009c3d;
+}
+.texto{
+    padding-left: 200px ;
+    padding-top: 5px;
+}
+.texto textarea{
+    font-size: 20px;
+    background: #3a3a3a;
+    border: 3px solid #7fff00;
+    border-radius: 5px;
+    color: #fff;
+    padding-left: 5px;
+}
+.txtfocus:focus{
+    box-shadow: 0 0 10px #7fff00;
+}
+.resultado{
+    color: white;
+    font-size:25px;
+    border:none;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    width: 100px;
+}
+.subliminar{
+    font-size:0px;
+    border:none;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 0px;
+}
+@media only screen and (min-width: 650px) and (max-width: 900px){/*configurando menu de acordo com a resolução*/
+    .BTN1{
+        left: 100px;
+        top: 30px;
+    }
+    .all{
+        padding-left: 150px;
+        padding-top: 100px; 
+    }
+    .texto{
+        padding-left: 100px ;
+        padding-top: 20px;
+    }
+    .resultado{
+    padding-left: 50px;
+
+    }
+
+}
+@media only screen and (min-width: 0px) and (max-width: 649px){/*configurando menu de acordo com a resolução*/
+    .BTN1{
+        left: 40px;
+        top: 30px;
+    }
+    .all{
+        padding-left: 100px;
+        padding-top: 80px; 
+    }
+    .texto{
+        padding-left: 20px ;
+        padding-top: 30px;
+    }
+    .resultado{
+    padding-left: 10px
+    }   
+}
