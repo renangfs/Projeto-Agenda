@@ -1,5 +1,5 @@
 <h1 align="center"> Resumo do Projeto </h1>
-<h1 align="center"<img src="https://user-images.githubusercontent.com/61218420/156604810-ce752b20-c075-47a3-9cb9-1bc38322ec51.png" width="600">
+<h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156604810-ce752b20-c075-47a3-9cb9-1bc38322ec51.png" width="600"></h1>
 <h4 align="center">Em desenvolvimento...</h4>
 <h3>Usando <strong>PHP e MySQL</strong>, criei uma página de agendamento com objetivo de auxiliar os agendamentos de Salões, Barbearias e Clínicas Médicas. </h3>
   Versão 1: https://renangfs77.000webhostapp.com/
