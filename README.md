@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td><h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156607433-43ffb53e-0e07-46dc-84c8-014c8b91fc8c.png" width="500"></h1></td>
-    <td><h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156607666-22e0499d-949c-4fab-98c7-71b3f7e75d70.png" width="200"></h1></td>
+    <td><h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156607666-22e0499d-949c-4fab-98c7-71b3f7e75d70.png" width="300"></h1></td>
   </tr>
 </table>
 
