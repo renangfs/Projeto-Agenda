@@ -10,8 +10,6 @@
   data é possível visualisar os horários disponíveis (Tabela visível apenas nos monitores superiores a 1030px).</h4>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156605970-77a7cb5a-5f32-4950-983a-f36e611ddc03.png" width="600"></h1>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156606707-6496bddd-3bab-4ddd-a6be-10de2d3040fd.png" width="600"></h1>
-
-
 <table border="1" align="center">
   <tr>
     <td><h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156607433-43ffb53e-0e07-46dc-84c8-014c8b91fc8c.png" width="400"></h1></td>
