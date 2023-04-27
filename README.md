@@ -2,9 +2,13 @@
 <h3>Usando <strong>PHP e MySQL</strong> criei uma página de agendamento com objetivo de auxiliar os agendamentos de salões, barbearias e clínicas médicas. </h3>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156604810-ce752b20-c075-47a3-9cb9-1bc38322ec51.png" width="700"></h1>
 <h4>Desafios no desenvolvimento:</h4> 
-Impedir agendamentos no mesmo dia e horário.<br>
+
+                         Impedir agendamentos no mesmo dia e horário.<br>
+          
 <h4>Solução Implementada :</h4> 
-Quando um cliente marca em um dia e horário já agendados no banco de dados é acionada um alert-box, orientando o cliente a escolher outra data ou hora.</h4>
+
+                          Quando um cliente marca em um dia e horário já agendados no banco de dados é acionada um alert-box, orientando o cliente a escolher outra data ou hora.</h4>
+                          
 <br>
   Versão 1 Atualização 14/01/2023 : https://sultriest-shocks.000webhostapp.com/<br>
 
