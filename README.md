@@ -7,8 +7,8 @@
           
 <h4>Solução Implementada :</h4> 
 
-    Quando um cliente marca em um dia e horário já agendados no banco de dados é acionada um alert-box,
-    orientando o cliente a escolher outra data ou hora.</h4>
+    Quando um cliente selecionar um dia e horário já agenados no banco de dados é acionada um alert-box 
+    que orienta o cliente a escolher outra data ou hora.
                           
 <br>
   Versão 1 Atualização 14/01/2023 : https://sultriest-shocks.000webhostapp.com/<br>
