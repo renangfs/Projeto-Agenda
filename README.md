@@ -6,23 +6,23 @@
 O objetivo principal deste projeto é fornecer uma solução digital eficiente para simplificar os agendamentos, eliminando a necessidade de fazer marcações por telefone ou presencialmente. Além disso, busca melhorar a experiência do cliente e a produtividade do estabelecimento, otimizando o tempo dos profissionais envolvidos.
     
 <h2>Funcionalidades implementadas:</h2> 
-• Agendamento online: Os clientes podem acessar a página de agendamento e selecionar os serviços desejados, escolhendo a data e o horário disponíveis.
+• <b>Agendamento online:</b> Os clientes podem acessar a página de agendamento e selecionar os serviços desejados, escolhendo a data e o horário disponíveis.
 
 <h2>Funcionalidades para futuras atualizações:</h2> 
-• Cadastro de clientes: Os clientes têm a opção de criar uma conta ou fazer o agendamento como visitantes, facilitando o acompanhamento de histórico e preferências.<br>
-• Gerenciamento de agenda: Os salões, barbearias e clínicas têm acesso a uma interface administrativa para gerenciar e visualizar todos os compromissos agendados, bem como fazer alterações conforme necessário.<br>
-• Notificações: O sistema envia lembretes automáticos por e-mail ou SMS para os clientes e estabelecimentos, reduzindo as taxas de ausência e atrasos.
-Controle de disponibilidade: Os estabelecimentos podem definir sua disponibilidade e horários de funcionamento, garantindo que os agendamentos sejam feitos dentro desses limites.<br>
-• Acesso multiusuário: Permite que diferentes profissionais do estabelecimento acessem suas próprias agendas e visualizem apenas os compromissos relacionados a eles.<br>
+• <b>Cadastro de clientes:</b> Os clientes têm a opção de criar uma conta ou fazer o agendamento como visitantes, facilitando o acompanhamento de histórico e preferências.<br>
+• <b>Gerenciamento de agenda:</b> Os salões, barbearias e clínicas têm acesso a uma interface administrativa para gerenciar e visualizar todos os compromissos agendados, bem como fazer alterações conforme necessário.<br>
+• <b>Notificações:</b> O sistema envia lembretes automáticos por e-mail ou SMS para os clientes e estabelecimentos, reduzindo as taxas de ausência e atrasos.<br>
+• <b>Controle de disponibilidade:</b> Os estabelecimentos podem definir sua disponibilidade e horários de funcionamento, garantindo que os agendamentos sejam feitos dentro desses limites.<br>
+• <b>Acesso multiusuário:</b> Permite que diferentes profissionais do estabelecimento acessem suas próprias agendas e visualizem apenas os compromissos relacionados a eles.<br>
                           
 <br>
-Link do Projeto: https://renangfs.000webhostapp.com/
+Link do Projeto: https://renangfs.000webhostapp.com/<br>
 Atualização 14/01/2023 
 <br>
 <h2>Tecnologias utilizadas:</h2> 
-PHP: Linguagem de programação utilizada para conexão ao banco de dados.<br>
-MySQL: Banco de dados para armazenar as informações de clientes, agendamentos e profissionais.<br>
-HTML, CSS e JavaScript: Utilizados para a criação da interface do usuário e aprimoramento da experiência do cliente.<br>
+<b>PHP:</b> Linguagem de programação utilizada para conexão ao banco de dados.<br>
+<b>MySQL:</b> Banco de dados para armazenar as informações de clientes, agendamentos e profissionais.<br>
+<b>HTML, CSS e JavaScript:</b> Utilizados para a criação da interface do usuário e aprimoramento da experiência do cliente.<br>
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156605970-77a7cb5a-5f32-4950-983a-f36e611ddc03.png" width="700"></h1>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/156606707-6496bddd-3bab-4ddd-a6be-10de2d3040fd.png" width="700"></h1>
