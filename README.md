@@ -6,14 +6,14 @@
 O objetivo principal deste projeto é fornecer uma solução digital eficiente para simplificar os agendamentos, eliminando a necessidade de fazer marcações por telefone ou presencialmente. Além disso, busca melhorar a experiência do cliente e a produtividade do estabelecimento, otimizando o tempo dos profissionais envolvidos.
     
 <h4>Funcionalidades implementadas:</h4> 
-- Agendamento online: Os clientes podem acessar a página de agendamento e selecionar os serviços desejados, escolhendo a data e o horário disponíveis.
+• Agendamento online: Os clientes podem acessar a página de agendamento e selecionar os serviços desejados, escolhendo a data e o horário disponíveis.
 
 <h4>Funcionalidades para fúturas atualizações:</h4> 
-- Cadastro de clientes: Os clientes têm a opção de criar uma conta ou fazer o agendamento como visitantes, facilitando o acompanhamento de histórico e preferências.
-- Gerenciamento de agenda: Os salões, barbearias e clínicas têm acesso a uma interface administrativa para gerenciar e visualizar todos os compromissos agendados, bem como fazer alterações conforme necessário.
-- Notificações: O sistema envia lembretes automáticos por e-mail ou SMS para os clientes e estabelecimentos, reduzindo as taxas de ausência e atrasos.
-Controle de disponibilidade: Os estabelecimentos podem definir sua disponibilidade e horários de funcionamento, garantindo que os agendamentos sejam feitos dentro desses limites.
-- Acesso multiusuário: Permite que diferentes profissionais do estabelecimento acessem suas próprias agendas e visualizem apenas os compromissos relacionados a eles.
+• Cadastro de clientes: Os clientes têm a opção de criar uma conta ou fazer o agendamento como visitantes, facilitando o acompanhamento de histórico e preferências.<br>
+• Gerenciamento de agenda: Os salões, barbearias e clínicas têm acesso a uma interface administrativa para gerenciar e visualizar todos os compromissos agendados, bem como fazer alterações conforme necessário.<br>
+• Notificações: O sistema envia lembretes automáticos por e-mail ou SMS para os clientes e estabelecimentos, reduzindo as taxas de ausência e atrasos.
+Controle de disponibilidade: Os estabelecimentos podem definir sua disponibilidade e horários de funcionamento, garantindo que os agendamentos sejam feitos dentro desses limites.<br>
+• Acesso multiusuário: Permite que diferentes profissionais do estabelecimento acessem suas próprias agendas e visualizem apenas os compromissos relacionados a eles.<br>
                           
 <br>
 Link do Projeto: https://renangfs.000webhostapp.com/
